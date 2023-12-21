@@ -19,6 +19,4 @@
   <img align="center" alt="MySQL" src="https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white" />
   <img align="center" alt="Miro" src="https://img.shields.io/badge/Miro-050038?style=for-the-badge&logo=Miro&logoColor=white" />
   <img align="center" alt="Trello" src="https://img.shields.io/badge/Trello-0052CC?style=for-the-badge&logo=trello&logoColor=white" />
-  
-  
 </div>  
